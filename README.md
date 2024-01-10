@@ -4,6 +4,9 @@
 - 💞️ I’m eager to contribute to some open-source projects.
   
  [![tar3q-az1z's GitHub stats](https://github-readme-stats.vercel.app/api?username=tar3q-az1z&show_icons=true&theme=cobalt)](https://github.com/tar3q-az1z/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tar3q-az1z&langs_count=20&layout=compact)](https://github.com/tar3q-az1z/github-readme-stats)
+
 <!--
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
