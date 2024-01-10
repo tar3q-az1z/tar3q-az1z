@@ -2,6 +2,15 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/aziz-tareq/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn Badge"/>
+  </a>
+<a href="https://codeforces.com/profile/Mars_Coder">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
+</div>
+
 - 👋 Hi, I’m Md Tareq Aziz, a self-taught programmer.
 - 👀 I’m interested in programming, software, and new technologies.
 - 🌱 I’m currently doing competitive programming along with some frontend projects.
