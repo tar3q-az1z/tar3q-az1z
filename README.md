@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
+</div>
+
 - 👋 Hi, I’m Md Tareq Aziz, a self-taught programmer.
 - 👀 I’m interested in programming, software, and new technologies.
 - 🌱 I’m currently doing competitive programming along with some frontend projects.
