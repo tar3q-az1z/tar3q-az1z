@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
  </a><br/>
   <img src="https://komarev.com/ghpvc/?username=tar3q-az1z&style=plastic&color=green" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  </h1>
 </div>
 
 - 👋 Hi, I’m Md Tareq Aziz, a self-taught programmer.
