@@ -76,6 +76,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tar3q-az1z&langs_count=20&layout=compact)](https://github.com/tar3q-az1z/github-readme-stats)
 
 
+### :trophy: My Tropies :
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=tar3q-az1z&theme=theme_name)
+
+
 ### :writing_hand: Blog Posts :
 
 - [Writing comment in Python](https://medium.com/@Md.TareqAziz/comment-in-python-increase-the-readability-of-your-code-671bb31aaebc)
