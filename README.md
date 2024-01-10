@@ -68,10 +68,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
-  
+
+### :fire: My Stats :
+
  [![tar3q-az1z's GitHub stats](https://github-readme-stats.vercel.app/api?username=tar3q-az1z&show_icons=true&theme=cobalt)](https://github.com/tar3q-az1z/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tar3q-az1z&langs_count=20&layout=compact)](https://github.com/tar3q-az1z/github-readme-stats)
+
+
+### :writing_hand: Blog Posts :
+
+- [Writing comment in Python](https://medium.com/@Md.TareqAziz/comment-in-python-increase-the-readability-of-your-code-671bb31aaebc)
+- [Effective way to find divisors](https://medium.com/@Md.TareqAziz/comment-in-python-increase-the-readability-of-your-code-671bb31aaebc)
 
 <!--
 - 📫 How to reach me ...
