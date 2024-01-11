@@ -84,7 +84,7 @@
 ### :writing_hand: Blog Posts :
 
 - [Writing comment in Python](https://medium.com/@Md.TareqAziz/comment-in-python-increase-the-readability-of-your-code-671bb31aaebc)
-- [Effective way to find divisors](https://medium.com/@Md.TareqAziz/comment-in-python-increase-the-readability-of-your-code-671bb31aaebc)
+- [Effective way to find divisors](https://medium.com/@Md.TareqAziz/finding-all-distinct-divisors-of-a-number-i-e-a-natural-number-efficiently-c309264690aa)
 
 <!--
 - 📫 How to reach me ...
