@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/aziz-tareq/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn Badge"/>
   </a>
-  <a href="https://codeforces.com/profile/Mars_Coder">
+  <a href="https://codeforces.com/profile/369Hz">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
  </a><br/>
 <!---  <img src="https://komarev.com/ghpvc/?username=tar3q-az1z&style=plastic&color=green" alt=""/> --->
